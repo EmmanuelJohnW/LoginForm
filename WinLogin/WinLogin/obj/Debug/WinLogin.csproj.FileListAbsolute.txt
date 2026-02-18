@@ -1,0 +1,14 @@
+Z:\QQ539\Prelim\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+Z:\QQ539\Prelim\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+Z:\QQ539\Prelim\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.Form1.resources
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.frmMain.resources
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.exe.config
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.Form3.resources
+Z:\QQ539\Prelim\WinLogin\WinLogin\obj\Debug\WinLogin.Form4.resources
